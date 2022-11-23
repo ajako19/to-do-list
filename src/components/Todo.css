@@ -1,0 +1,9 @@
+hr {
+    width: 500px;
+    position: absolute;
+    left: 10px;
+    height: 2px;
+    background-color: rgb(157, 157, 157);
+    border: none;
+    border-radius: 5px;
+}

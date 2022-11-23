@@ -1,0 +1,25 @@
+.ToDoForm {
+    margin-top: 10px;
+}
+
+label {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+input {
+    width: 100px;
+}
+
+.submitButton {
+    margin-left: 10px;
+}
+
+form {
+    display: flex;
+    align-items: center;
+}
+
+.x {
+    margin-left: 5px;
+}
